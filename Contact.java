@@ -2,11 +2,11 @@ class Contact{
 
 	public void addContact(String name){
 	}
-	public void deleteContact(String name){
-
+	public boolean deleteContact(String name){
+return true;
 	}
-	public void blockContact(String name, String login){
-
+	public boolean blockContact(String name, String login){
+return true;
 	}
 
 
